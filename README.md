@@ -31,6 +31,7 @@
   - [MoE Models](architectures/moe.md)
   - [Dense Models](architectures/dense.md)
 - [Insights](insights/)
+  - [Architecture Innovations 2025](insights/architecture-innovations-2025.md)
   - [Scaling Laws Analysis](insights/scaling-laws.md)
   - [Reasoning Models Trends](insights/reasoning-models.md)
   - [Open Source Landscape](insights/open-source.md)
